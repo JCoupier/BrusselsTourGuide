@@ -1,2 +1,2 @@
 # BrusselsTourGuide
-Tour Guide App about Brussels (Belgium
+Tour Guide App about Brussels (Belgium)
