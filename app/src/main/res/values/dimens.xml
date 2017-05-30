@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tab_width">115dp</dimen>
+    <dimen name="image_height_width">100dp</dimen>
+    <dimen name="padding_location_textview">16dp</dimen>
+    <dimen name="height_location_textview">50dp</dimen>
+    <dimen name="layout_min_height">100dp</dimen>
+    <dimen name="layout_padding">8dp</dimen>
+    <dimen name="details_image_height">300dp</dimen>
+    <dimen name="details_icon_height_width">18dp</dimen>
+</resources>

@@ -1,0 +1,377 @@
+<resources>
+    <string name="app_name">Brussels Tour Guide</string>
+    <string name="category_landmarks">Landmarks</string>
+    <string name="category_events">Events</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_bars">Bars</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="location_details">Location details</string>
+    <!-- Landmarks Fragment Resource (@Wikipedia.org)  -->
+    <!-- Resources for the Grand Place -->
+    <string name="grand_place">Grand Place</string>
+    <string name="grand_place_address">Grand Place, B-1000</string>
+    <string name="grand_place_description">The Grand Place in French or Grote Markt in Dutch,
+        is the central square of Brussels. It is surrounded by opulent guildhalls and two larger
+        edifices, the city\'s Town Hall, and the Breadhouse (French: Maison du Roi, Dutch: Broodhuis)
+        building containing the Museum of the City of Brussels. The square is the most important
+        tourist destination and most memorable landmark in Brussels. It measures 68 by 110 metres
+        (223 by 361 ft), and it is a UNESCO World Heritage Site.</string>
+    <!-- Resources for the Manneken Pis -->
+    <string name="manneken_pis">Manneken Pis</string>
+    <string name="manneken_pis_address">Corner of Rue du Chene and Rue de l\'Etuve, B-1000 Brussels</string>
+    <string name="manneken_pis_description">Manneken Pis, meaning "Little man Pee" in Dutch) is a
+        landmark small bronze sculpture (61 cm) in Brussels, depicting a naked little boy
+        urinating into a fountain\'s basin. It was designed by Hiëronymus Duquesnoy the Elder and put
+        in place in 1618 or 1619. To find it, one takes the left lane next to the Brussels Town Hall
+        from the famous Grand Place and walks a few hundred metres southwest via Rue Charles
+        Buls/Karel Bulsstraat.</string>
+    <!-- Resources for the Atomium -->
+    <string name="atomium">Atomium</string>
+    <string name="atomium_address">Square de l\'Atomium, B-1020 Brussels</string>
+    <string name="atomium_description">The Atomium is a building in Brussels originally constructed
+        for Expo 58, the 1958 Brussels World\'s Fair. Designed by the engineer André Waterkeyn and
+        architects André and Jean Polak, it stands 102 m (335 ft) tall. Its nine 18 m (60 ft)
+        diameter stainless steel clad spheres are connected so that the whole forms the shape of a
+        unit cell of an iron crystal magnified 165 billion times. It is now a museum.</string>
+    <!-- Resources for the Mini-Europe -->
+    <string name="mini_europe">Mini-Europe</string>
+    <string name="mini_europe_address">Bruparck, B-1020 Brussels</string>
+    <string name="mini_europe_description">Mini-Europe is a miniature park located in Bruparck at
+        the foot of the Atomium in Brussels, Belgium. Mini-Europe has reproductions of monuments in
+        the European Union on show, at a scale of 1:25. Roughly 80 cities and 350 buildings are
+        represented. Mini-Europe receives 350,000 visitors per year and has a turnover of 4 million
+        Euros. The park contains live action models such as trains, mills, an erupting Mount Vesuvius,
+        and cable cars. A guide gives the details on all the monuments. At the end of the visit, the
+        “Spirit of Europe” exhibition gives an interactive overview of the European Union in the form
+        of multimedia games. The park is built on an area of 24,000 m². The initial investment was
+        of €10 million in 1989, on its inauguration by Prince Philip of Belgium.</string>
+    <!-- Resources for the Parc du Cinquantenaire -->
+    <string name="parc_cinquantenaire">Parc du Cinquantenaire</string>
+    <string name="parc_cinquantenaire_address">Parc du Cinquantenaire, B-1000 Brussels</string>
+    <string name="parc_cinquantenaire_description">Parc du Cinquantenaire (French for "Park of the
+        Fiftieth Anniversary", or Jubelpark (Dutch for "Jubilee Park") is a large public, urban park
+        (30 hectares) in the easternmost part of the European Quarter in Brussels, Belgium. Most buildings
+        of the U-shaped complex which dominate the park were commissioned by the Belgian government
+        under the patronage of King Leopold II for the 1880 National Exhibition commemorating the
+        fiftieth anniversary of Belgian independence. During successive exhibitions in the same area,
+        more structures were added. The centrepiece triumphal arch was erected in 1905 replacing a
+        previous temporary version of the arcade by Gédéon Bordiau. The structures were built in iron,
+        glass and stone, symbolising the economic and industrial performance of Belgium. The surrounding
+        30-hectare park esplanade was full of picturesque gardens, ponds and waterfalls. It housed
+        several trade fairs, exhibitions and festivals at the beginning of the century. In 1930 the
+        government decided to reserve Cinquantenaire for use as a leisure park.\n\nThe Royal Military Museum
+        has been the sole tenant of the northern half of the complex since 1880. The southern half
+        is occupied by the Jubelpark museum (Cinquantenaire Museum) and the AutoWorld Museum. The
+        Temple of Human Passions, a remainder from 1886, and the Great Mosque of Brussels from 1978
+        are located in the north-western corner of the park.\n\nLine 1 of the Brussels Metro
+        and the Belliard Tunnel from wetstraat pass underneath the park, the latter partly in an open
+        section in front of the Arch. The nearest metro stations are Schuman to the west of the park,
+        and Mérode immediately to the east.</string>
+    <!-- Resources for the Musical Instrument Museum -->
+    <string name="musical_instrument_museum">Musical Instrument Museum</string>
+    <string name="musical_instrument_museum_address">Rue Montagne de la Cour 2, B-1000 Brussels</string>
+    <string name="musical_instrument_museum_description">The Musical Instruments Museum (MIM) is a
+        music museum in central Brussels, Belgium. It is part of the Royal Museums for Art and
+        History and internationally renowned for its collection of over 8,000 instruments.\n\nThe
+        museum\'s collection represents Belgian musical history (including Brussels\' importance in
+        the making of recorders in the 18th and 19th centuries and as the home of instrument inventor
+        Adolphe Sax in the 19th century), European musical traditions, and non-European instruments.
+        Mechanical instruments are shown in the basement, traditional instruments on the ground floor,
+        the development of the modern orchestral instruments on the first floor, and keyboard and
+        stringed instruments on the second floor.\n\nAmong the notable pieces of the collection are
+        the famous Rottenburgh Alto recorder, instruments invented by Adolphe Sax, a unique set of
+        giant Chinese stone chimes, and the only existing copy of the luthéal, an instrument used
+        by Ravel.</string>
+    <!-- Resources for the Cathedral of St. Michael and St. Gudula -->
+    <string name="cathedral_michael_gudula">Cathedral of St. Michael and St. Gudula</string>
+    <string name="cathedral_michael_gudula_address">Place Sainte-Gudule, B-1000 Brussels</string>
+    <string name="cathedral_michael_gudula_description">The Cathedral of St. Michael and St. Gudula
+        (French: Co-Cathédrale collégiale des Ss-Michel et Gudule, Dutch: Collegiale Sint-Michiels-
+        en Sint-Goedele-co-kathedraal) is a Roman Catholic church in Brussels, Belgium. The church
+        was given cathedral status in 1962 and has since been the co-cathedral of the Archdiocese
+        of Mechelen-Brussels, together with St. Rumbold\'s Cathedral in Mechelen.\n\nA chapel dedicated
+        to St. Michael was probably built on the Treurenberg hill as early as the 9th century. In the
+        11th century it was replaced by a Romanesque church. In 1047, Lambert II, Count of Leuven
+        founded a chapter in this church and organized the transportation of the relics of the martyr
+        St. Gudula, housed before then in Saint Gaugericus Church on Saint-Géry Island. The patron
+        saints of the church, St. Michael and St. Gudula, are also the patron saints of the city of
+        Brussels.\n\nIn the thirteenth century, Henry I, Duke of Brabant ordered two round towers to
+        be added to the church. Henry II, Duke of Brabant instructed the building of a Gothic collegiate
+        church in 1226. The choir was constructed between 1226 and 1276. It took about 300 years to
+        complete the entire church. It was completed just before the reign of the emperor Charles V
+        commenced in 1519.</string>
+    <!-- Resources for the Belgian Comic Strip Center -->
+    <string name="belgian_comic_strip_center">Belgian Comic Strip Center</string>
+    <string name="belgian_comic_strip_center_address">Rue des Sables/Zandstraat 20, B-1000 Brussels</string>
+    <string name="belgian_comic_strip_center_description">The Belgian Comic Strip Center (French: Centre
+        belge de la Bande dessinée, Dutch: Belgisch Stripcentrum) is a museum in Brussels, dedicated
+        to Belgian comics.\n\nOn the ground floor of the museum a restaurant can be found, a room
+        dedicated to Victor Horta, a comics\' store named "Slumberland" after Little Nemo in Slumberland,
+        a library with a reading room and study center. The first floor has an auditorium, a room with
+        original comic book pages by various artists and a room dedicated to animation, more specifically
+        the Belgian animation industry, such as Belvision.\n\nThe second floor has a permanent exhibition
+        dedicated to the chronological history of the medium in Belgium called "The Museum of Imagination".
+        The exhibit starts off with Hergé and ends with Peyo, covering the pioneers of Belgian comics
+        between 1929 and 1958 and with special focus on the magazines Spirou and Tintin. Each artist
+        has a room dedicated to his work and designed in a playful way.\n\nThe final floor is dedicated
+        to the merchandising of comics and available for provisional exhibitions.</string>
+    <!-- Resources for the Royal Greenhouses of Laeken -->
+    <string name="royal_greenhouses_laeken">Royal Greenhouses of Laeken</string>
+    <string name="royal_greenhouses_laeken_address">Avenue du Parc Royal, B-1020 Brussels</string>
+    <string name="royal_greenhouses_laeken_description">The Royal Greenhouses of Laeken (Dutch: Koninklijke
+        Serres van Laken, French: Serres Royales de Laeken) are a vast complex of monumental heated
+        greenhouses in the park of the Royal Castle of Laeken in the north of Brussels. The greenhouses
+        are world famous, but not a tourist attraction. The greenhouses are part of the Royal Park,
+        and the royal private gardens and usually not open for visitors.\n\nThe gardens date of the
+        18th century, but King Leopold II changed the its garden-architecture. A brand new complex
+        was commissioned by King Leopold II and designed by Alphonse Balat. Built between 1874 and
+        1895, the complex was finished with the completion of the so-called "Iron Church", a domed
+        greenhouse that would originally serve as the royal chapel. The total floor surface of this
+        immense complex is 2.5 hectares (270,000 square feet). 800,000 liters (over 200,000 US gallons)
+        of fuel oil are needed each year to heat the buildings. After the death of the king the
+        greenhouses were kept, but the Iron church was conversed into a private royal bathing house.
+        \n\nFamous is the royal botanic collection, with old plants from Africa and various species
+        of flowers that are cultivated inside the royal greenhouses for use at court.\n\nThe royal
+        complex can only be visited during a two-week period in April–May each year, when most flowers
+        are in full bloom.</string>
+    <!-- Resources for the Royal Palace of Brussels -->
+    <string name="royal_palace_brussels">Royal Palace of Brussels</string>
+    <string name="royal_palace_brussels_address"> Rue Brederode 16, B-1020 Brussels</string>
+    <string name="royal_palace_brussels_description">The Royal Palace of Brussels (Dutch: Koninklijk
+        Paleis van Brussel, French: Palais Royal de Bruxelles, German: Königlicher Palast von Brüssel)
+        is the official palace of the King and Queen of the Belgians in the centre of the nation\'s
+        capital Brussels. However it is not used as a royal residence, as the king and his family live
+        in the Royal Palace of Laeken on the outskirts of Brussels.\n\nThe palace is situated in
+        front of Brussels Park. A long square called the Paleizenplein/Place des Palais separates the
+        palace from the park. The middle axis of the park marks both the middle peristyle of the
+        palace and the middle of the facing building on the other side of the park, which is the
+        Palace of the Nation (the Belgian Federal Parliament building). The two facing buildings are
+        said to symbolize Belgium\'s system of government: a constitutional monarchy.</string>
+    <!-- Events Fragment Resource (@www.brussels.be) -->
+    <!-- Resources for the BXL Tour -->
+    <string name="bxl_tour">BXL Tour</string>
+    <string name="bxl_tour_address">Carrefour des Attelages in the Bois de la Cambre, B-1050 Brussels</string>
+    <string name="bxl_tour_description">On Sunday 25 June 2017, from 9 am, with start and finish at
+        the Bois de la Cambre.\n\nBXL Tour is a 50-km bike ride through the streets of the capital.
+        The tour goes along various places of the city such as the Bois de la Cambre, Cinquantenaire,
+        Atomium, King Baudouin Stadium and the Avenues Louise and Tervuren. The Carrefour des Attelages
+        at the Bois de la Cambre is transformed into Velocity, a place of discoveries with many
+        activities for young and old: alternative tours, initiations, demonstrations,etc.\n\nAnd all of
+        this with music and food stands.</string>
+    <!-- Resources for the Ommegang 2017 -->
+    <string name="ommegang_2017">Ommegang 2017</string>
+    <string name="ommegang_2017_address">Grand Place, B-1000</string>
+    <string name="ommegang_2017_description">In Brussels, from 5 to 7 July 2017.\n\nOn 5 and 7 July,
+        on the Grand-Place, from 8:45 pm, a historic parade, part of the Brussels folklore with more
+        than 1.400 actors, folk and historic groups, horses, puppet theater, giants, flags,etc. It
+        honours the coming of Charles the Fifth to Brussels in 1549.\n\nIn the Brussels Park (Parc
+        de Bruxelles - Warandepark) there will be a free medieval village with tournaments on 5, 6,
+        7 and 8 July (from noon to 9 pm). At the Place Agora and behind the Stock Exchange there will
+        be a medieval market (from noon to 9 pm).\n\nSince 2012 the Ommegang is also part of the
+        Carolus V Festival, a festival celebrating Emperor Charles V and his Palace of the Coudenberg.</string>
+    <!-- Resources for the Brussels Beach 2017 -->
+    <string name="brussels_beach_2017">Brussels Beach 2017</string>
+    <string name="brussels_beach_2017_address">Quai des Péniches, B-1000</string>
+    <string name="brussels_beach_2017_description">Brussels Beach (Bruxelles les Bains) opens its
+        urban beach from 7 July to 13 August 2017, from Tuesday till Sunday, at the Quai des Péniches
+        near the Place Sainctelette.\n\nThere will be lots of events and activities for young and old.
+        Parties with the best DJ\'s of the capital start at the Croisetteke and go on on the Boat Club
+        during a cruise on the Canal of Brussels.</string>
+    <!-- Resources for the Brussels Summer Festival 2017 -->
+    <string name="brussels_summer_festival_2017">Brussels Summer Festival 2017</string>
+    <string name="brussels_summer_festival_2017_address">Place des Palais, B-1000</string>
+    <string name="brussels_summer_festival_2017_description">From 6 to 15 August 2017 on and around the
+        Place des Palais.\n\n16th edition of the BSF with concerts and cultural events at the Place
+        des Palais and Mont des Arts.\n\nSchedule: Pet Shop Boys, Puggy, Black Box Revelation, Feist,
+        Goose, Milow, Orbital, Boulevard des Airs, Henri PFR, Jain, La Femme, MHD, Trust, Noa, Alex
+        Germys, Teemid, Krono, Rinôçérôse, Typh Barrow, Magyd Cherfi, Pierce Brothers, Faon Faon,
+        Oyster Node, Viktor Lazlo, Konoba, Lisa Leblanc and Ivan Paduart (+ Quentin Dujardin and Manu
+        Katché), etc.</string>
+    <!-- Resources for the Flowertime -->
+    <string name="flowertime">Flowertime</string>
+    <string name="flowertime_address">Grand Place, B-1000</string>
+    <string name="flowertime_description">FFrom 11 to 15 August 2017 at the City Hall of Brussels
+        and the Grand Place.\n\nThe City of Brussels and the association of the Brussels Flower
+        Carpet join forces for Flowertime, an international plant and flower arrangement event. The
+        event takes place biannually, alternating with the Flower Carpet.\n\nFlowertime transforms
+        the City Hall and Grand Place into a floral dream. And this year\'s theme should put you in
+        the best of moods right away: flowers and fruits. For five days, you will be able to stroll
+        through dozens of colorful and fruity creations from Belgian top florists.</string>
+    <!-- Resources for the Nuit Blanche 2017 -->
+    <string name="nuit_blanche_2017">Nuit Blanche 2017</string>
+    <string name="nuit_blanche_2017_address">Quartier des Libertés, B-1000</string>
+    <string name="nuit_blanche_2017_description">In the night from Saturday 7 to Sunday 8 October
+        2017 at the Parc de Bruxelles (Royal Park) and the Quartier des Libertés (formerly Notre-Dame-aux-Neiges.)
+        \n\nNuit Blanche is a night (7 pm - 3 am) where people can come together, a night where unusual
+        and contemporary creativity come together in a pleasant and festive atmosphere. Program:
+        installations, performances, multimedia projections, concerts, interactive events, performances
+        by DJs and VJs, etc.\n\nThe theme of the 2017 edition is \'Power Games\'.</string>
+    <!-- Restaurants Fragment Resource -->
+    <!-- Resources for Le Chou de Bruxelles -->
+    <string name="chou_brussels">Le Chou de Bruxelles</string>
+    <string name="chou_brussels_address">Rue de florence 26, B-1050 Brussels</string>
+    <string name="chou_brussels_description">Our restaurant "Le Chou de Bruxelles" is happy to receive
+        you in one of the most beautifull area of Ixelles, located between the Avenue Louise and the
+        famous Châtelain.\n\nIn a Belgo-Belgian setting local cooking is served to you.\n\nOur
+        speciality: MUSSELS, prepared in 30 different way, made our reputation since 20 years now.
+        \n\nNonesuch in Brussels, compose your self your "Menu Carte" (starter-maincourse-dessert) for 30€.
+        \n\nWhen the weather is nice, a wonderful garden will welcome you, we can cover it when it
+        rains.</string>
+    <!-- Resources for Le Grand Café -->
+    <string name="grand_cafe">Le Grand café</string>
+    <string name="grand_cafe_address">Boulevard Anspach 78, B-1000 Brussels</string>
+    <string name="grand_cafe_description">Dining options: After-hours, Drinks, Dinner, Breakfast,
+        Brunch, Lunch, Accepts American Express, Accepts Discover, Accepts Mastercard, Accepts Visa,
+        Digital Payments, Free Wifi, Full Bar, Highchairs Available, Outdoor Seating, Reservations,
+        Seating, Serves Alcohol, Takeout, Television, Waitstaff, Wheelchair Accessible.</string>
+    <!-- Resources for Le Pickwick -->
+    <string name="pickwick">Le Pickwick</string>
+    <string name="pickwick_address">Avenue Adolphe Buyl 79, B-1050 Brussels</string>
+    <string name="pickwick_description">BELGIAN BREWER - Located in Brussels, discover this typical
+        Belgian brewery: Pickwick, as welcoming as a gourmet restaurant, which is waiting for you!\n\n
+        QUALITY OF MISE - The menu offers a good selection of typical Belgian brasserie dishes. The
+        products are chosen with care and the kitchen is mastered, for quality plates and to make
+        you happy!\n\nWITH FRIENDS - The welcome is warm and familiar, for the feeling to come and
+        eat with friends in a friendly atmosphere and relaxation. Ideal for small groups, friends or
+        family!</string>
+    <!-- Resources for the WY Brussels -->
+    <string name="wy_brussels">WY Brussels</string>
+    <string name="wy_brussels_address">Rue Bodenbroek 22 to 24, B-1000 Brussels</string>
+    <string name="wy_brussels_description">Michelin Guide\n\nA gastronomic haven in the heart of the
+        \"Mercedes House\" in Brussels. Behind the cars on display, we find this bright, contemporary
+        restaurant and its kitchen full of qualities: good products, creativity, refinement, etc,
+        screens allow even see the chefs at work. The showroom spirit!</string>
+    <!-- Resources for the Green Mango -->
+    <string name="green_mango">Green Mango</string>
+    <string name="green_mango_address">Chaussée de Vleurgat 142, B-1000 Brussels</string>
+    <string name="green_mango_description">Warm colors, world music and all styles, generous food and
+        original ingredients, fresh fruit cocktails, alcoholic or not. It\'s not a secret, we expect
+        you to travel during your meal.\n\nHere, no fuss, we go straight to the point. People come to
+        enjoy crazy Burgers, excellent Thai soups or salads of all kinds while sipping a smoothie with
+        tropical flavors or a refreshing milkshake.\n\nEach of our Burgers was created, worked, and
+        tested individually. Our card has been created by itself, and the products you find have all
+        proved themselves.\n\nOur golden rules are: we constantly attach the greatest attention to
+        quality and freshness of the products.</string>
+    <!-- Bars Fragment Resource -->
+    <!-- Resources for the Moeder Lambic (@wikipedia) -->
+    <string name="moeder_lambic">Moeder Lambic</string>
+    <string name="moeder_lambic_address">Place Fontainas 8, B-1000 Brussels</string>
+    <string name="moeder_lambic_description">Moeder Lambic commonly refers to two different bars in
+        the Brussels area owned by Jean Hummler, Nassim Dessicy, and Andy Mengal. The original
+        location in the Saint-Gilles area of Brussels, called Chez Moeder Lambic, was established in
+        the 1980s. In 2006, Jean and Nassim, who were bartenders at the time, purchased the business
+        from the owners during bankruptcy. The success of the bar under Jean and Nassim led to the
+        opening of a second location with third partner (Andy) near the center of Brussels at Place
+        Fontainas. Today, both locations are known for their selection of lambic as well as non-lambic
+        Belgian beers.\n\nBoth Moeder Lambic bars have a wide selection of lambic and other Belgian
+        beers in draught and in bottle. The bars have also played host to Cantillon\'s Zwanze Day
+        events. Though no specific lambics have been bottled for the bars, the draught list generally
+        includes many beers from Cantillon, 3 Fonteinen, and other lambic brewers and blender that are
+        not commonly found outside of the breweries or various festivals. However, there is one
+        fruited lambic, Cantillon Cuvée Moeder, that is served exclusively at the bars.</string>
+    <!-- Resources for La Porte Noire (@http://www.laportenoire.be) -->
+    <string name="porte_noire">La Porte Noire</string>
+    <string name="porte_noire_address">Rue des Alexiens 67, B-1000 Brussels</string>
+    <string name="porte_noire_description">The Porte Noire traces its history back to the 16th
+        century, with its subterranean vaulted ceilings, a water well and vintage icebox. In fact,
+        this enchanting tavern once served as a kitchen for the nuns of the Alexien Convent.\n\nLong
+        abandoned after the nuns\' departure, the cellar was finally restored in 1995 and converted
+        into what has become one of Brussels\' most popular beer and whisky taverns. Its fine choice
+        of beverages, knowledgeable barmen, and medieval atmosphere give the tavern a truly Celtic
+        feel. No wonder the tavern\'s three central rooms have hosted so many memorable Saint
+        Patrick\'s Day parties.\n\nOf course, just about any occasion is a good reason to celebrate
+        at the Porte Noire and hardly a week goes by without live music, whisky tasting or a night
+        of serious partying.\n\nSo push the door, walk down the stairs, and discover 100 exceptional
+        Belgian beers, 11 taps, 80 fine brands of whisky, friendly barmen, rock and roots, and a
+        decidedly relaxed ambience-all in an unforgettable Celtic setting!</string>
+    <!-- Resources for Le Pantin (@www.lepantin.be) -->
+    <string name="pantin">Le Pantin</string>
+    <string name="pantin_address">Chaussée d\'Ixelles 355, B-1050 Brussels</string>
+    <string name="pantin_description">Le Pantin is a cozy and friendly bar in which you can easily
+        share your evening with many strangers. Its decor is a joyful brothel of bric à pic recovered,
+        accumulated and assembled with care as its 30 years of existence, by Jean-Marie, my dad!
+        \n\nSince 2011 it is also a second floor, a more intimate atmosphere in the hollow of an old
+        armchair in the shade of a candle, where you can also share an evening with friends around
+        a good game or Lose themselves in the pages of the many books hidden there. This part of the
+        bar is also perfect for birthday parties or other festive meetings.\n\nWe keep the bar with
+        the family, the dad who no longer serves beers but continues his tinkering and tinkering of
+        all kinds, brother Tom who will not hesitate to offer a small Yagermeister to the most
+        friendly of you, brother Kevin always Ready to support us and give a helping hand and I who
+        prepare Breton cookies every lunch of the week and concocte you a small musical program every
+        month!\n\nAnd do not forget the essential: a cheerful team of students to help us make you
+        spend a good evening !!</string>
+    <!-- Resources for the Delirium Café (@www.deliriumcafe.be) -->
+    <string name="delirium_cafe">Delirium Café</string>
+    <string name="delirium_cafe_address">Impasse de la Fidélité 4, B-1000 Brussels</string>
+    <string name="delirium_cafe_description">No wonder Beer lovers from around the world love this
+        place. You can taste more than 2000 beers from around the globe. Delirium Café holds the
+        Guinness World Record for the most beers offered with 2004, obtained in 2004. Today we are
+        getting close to 2500!\n\nYou will be able to choose from the famous Trappists, Belgian
+        Abbeys, strong dark or lighter fruit beers from Belgium, beers from around the world ,
+        unusual beers like Chocolate, Banana or Coco beers and more and more!!!\n\nCan\'t make up
+        your mind? Don\'t worry. Our staff is here to help. And they will listen to you before
+        proposing different choices! All tastes are admitted. Having said that, quality goes first.
+        You will have to insist to drink more industrial products! But hey, customer is king!\n\nAdd
+        to that a great decor, thousands of beer memorabilia items like old advertising plaques,
+        trays, glasses, our jam sessions every Thursdays, concerts,etc. and get ready to enjoy a
+        great time!</string>
+    <!-- Resources for the Floris Bar (@www.florisbar.com/) -->
+    <string name="floris_bar">Floris Bar</string>
+    <string name="floris_bar_address">Impasse de la Fidélité 12, B-1000 Brussels</string>
+    <string name="floris_bar_description">On the other side of the impasse from the Delirium Café
+        you will find the Floris Bar. The Floris has its own specialty: you will travel back in time
+        to an old Paris bistro to be introduced to a forgotten (in fact forbidden until recently)
+        and resurrected drink: the famous Absinths (more than 400!) and very traditional ones: Gins,
+        Whiskies (more than 200), anises and liquors.\n\nYou will be able to taste the Absinth in
+        different ways: the traditional way with a lump of sugar and water dripping on it from a
+        fountain, flamed in a shot or even in a pipe (and flamed as well!).\n\nHere as well, rarities
+        and quality are priorities.\n\nPoets and artists welcome!\n\n« Hi, I\'m Charles, you must be
+        Arthur? Or is it Paul? »</string>
+    <!-- Resources for L'Atelier -->
+    <string name="atelier">L\'Atelier</string>
+    <string name="atelier_address">Rue Elise 77, B-1050 Brussels</string>
+    <string name="atelier_description">L\'Atelier the place known by all the students, etc. a subdued
+        atmosphere, wooden tables, a wide choice of beers, located right next to the university,
+        this place still continues to please the less young.</string>
+    <!-- Hotels Fragment Resource -->
+    <!-- Resources for the Hotel Brussels Belgium (@www.hotelbrusselsbelgium.com) -->
+    <string name="hotel_brussels_belgium">Hotel Brussels Belgium</string>
+    <string name="hotel_brussels_belgium_address">Avenue Louise 315, B-1050 Brussels</string>
+    <string name="hotel_brussels_belgium_description">With 70 square metre two-storey rooms, plenty
+        of light streaming in through the large windows and Wi-Fi connection in all the rooms and the
+        communal areas, the Brussels Hotel is the ideal backdrop for a business or family trip to the
+        capital of Europe.\n\nThe Brussels Hotel is a modern, dynamic, relaxed hotel that is loved
+        by families and businesspeople alike, located in the Louise district. Spaciousness
+        characterises our hotel: the regular rooms measure more than 25 square metres, while the
+        two-storey rooms, which can fit up to 4 people, measure 70 square metres.\n\nFor
+        petit-dejeuner lovers, the Brussels is a great choice with its extensive buffet-style
+        breakfasts. The hotel has an underground car park.\n\nThe Salon Louise, which is 60 square
+        metres, is equipped with all the technology needed to hold company launches and other
+        business events.</string>
+    <!-- Resources for the Radisson Blu Royal Hotel Brussels (@www.radissonblu.com) -->
+    <string name="radisson_blu_royal_hotel">Radisson Blu Royal Hotel Brussels</string>
+    <string name="radisson_blu_royal_hotel_address">Rue du Fossé aux Loups 47, B-1000 Brussels</string>
+    <string name="radisson_blu_royal_hotel_description">Featuring a modern Art Deco façade that
+        includes a stunning atrium, glass dome and a river designed by renowned architect Michel
+        Jaspers, the Radisson Blu Royal Hotel, Brussels is conveniently located in the city center.
+        It offers easy access to the metro and major rail lines and Central Station is just 500
+        meters away. Brussels Airport (BRU) is about 15 kilometers from the hotel and Brussels South
+        Charleroi Airport (CRL) lies about 69 kilometers away. Popular attractions including the
+        Grand Place, Manneken Pis and the BOZAR Museum are just a short walk from the hotel. Our 281
+        rooms and suites features convenient amenities including satellite television as well as
+        inviting décor in different signature styles: Urban Style, New York Mansion, Maritime and At
+        Home. Guests can choose from 3 on-site restaurants: the Sea Grill restaurant, winner of 2
+        Michelin stars, the unique PebbleWood Corner and the Atrium restaurant that features seasonal
+        Belgian favorites. Guests can take advantage of underground parking and free access to the
+        well-equipped Fitness Club which includes a 24-hour gym and a sauna. Business delegates can
+        host meetings and conferences in one of our 18 meeting rooms that hold up to 420 guests.</string>
+    <!-- Resources for the Hôtel Métropole (@http://www.metropolehotel.com) -->
+    <string name="hotel_metropole">Hôtel Métropole</string>
+    <string name="hotel_metropole_address">Place De Brouckère 31, B-1000 Brussels</string>
+    <string name="hotel_metropole_description">A luxury hotel with an excellent reputation, the
+        embodiment of Brussels\' most honored traditional values, spacious rooms and charming suites,
+        with outstanding food.\n\nHotel Metropole, conveniently situated in the heart of Brussels,
+        is famous for its warm welcome.\n\nOur guests will enjoy everything a city hotel has to
+        offer. We invite you to discover the history of Brussels which comes to life in our hotel
+        and to enjoy our high quality and comfortable hospitality.</string>
+</resources>

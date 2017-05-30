@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#512da8</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#311b92</color>
+
+    <!-- Accent color of the app (shown in radiobuttons, checkboxes and tabselector) -->
+    <color name="colorAccent">#673ab7</color>
+
+    <!-- Background color for the landmarks category -->
+    <color name="category_landmarks">#2196f3</color>
+
+    <!-- Background color for the events category -->
+    <color name="category_events">#424242</color>
+
+    <!-- Background color for the restaurants category -->
+    <color name="category_restaurants">#ef6c00</color>
+
+    <!-- Background color for the bars category -->
+    <color name="category_bars">#5d4037</color>
+
+    <!-- Background color for the hotels category -->
+    <color name="category_hotels">#16AFCA</color>
+
+</resources>
